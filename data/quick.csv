@@ -1,0 +1,11 @@
+species,id,height(m),age
+juniper,1,5,20
+juniper,2,100,75
+juniper,3,125,50
+oak,4,300,75
+oak,5,400,80
+oak,6,500,80
+oak,7,450,90
+oak,8,600,100
+juniper,9,150,80
+juniper,10,160,80
